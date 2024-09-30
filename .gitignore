@@ -1,0 +1,4 @@
+# ignore csv files
+companies/price/*
+companies/debt/*
+companies/us_stocks.csv
